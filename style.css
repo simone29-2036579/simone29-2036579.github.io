@@ -49,7 +49,7 @@ OBJECT-FIT: contain;
 nav{
 background-color: orange;
 color:white;
-position:fixed;
+position:sticky;
 top:0px;
 left:0px;
 }
