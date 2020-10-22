@@ -33,26 +33,16 @@ float:left;
 }
 
 #LeftNav img{
-width: 400px;
-margin-left: auto;
-margin-bottom: 10px;
-border: solid 8px black;
+
 
 }
 
 #LeftNav ul{
-width: 400px;
-margin-left: auto;
-margin-bottom: 10px;
-border: solid 8px black;
+
 
 }
 
 #LeftNav h3{
-width: 400px;
-margin-left: auto;
-margin-bottom: 10px;
-border: solid 8px black;
 
 }
 
@@ -68,5 +58,6 @@ width: 500px;
 margin-left: auto;
 margin-bottom: 10px;
 border: solid 8px black;
+float:center;
 
 }
