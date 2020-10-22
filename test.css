@@ -1,0 +1,68 @@
+body{
+}
+
+p{
+}
+
+h3{
+}
+
+li{
+}
+
+#Header{
+width: 500px;
+margin-left: auto;
+margin-bottom: 10px;
+border: solid 8px black;
+}
+
+#Header h1{
+width: 500px;
+margin-left: auto;
+margin-bottom: 10px;
+border: solid 8px black;
+}
+
+#LeftNav{
+width: 500px;
+margin-left: auto;
+margin-bottom: 10px;
+border: solid 8px black;
+}
+
+#LeftNav img{
+width: 400px;
+margin-left: auto;
+margin-bottom: 10px;
+border: solid 8px black;
+}
+
+#LeftNav ul{
+width: 400px;
+margin-left: auto;
+margin-bottom: 10px;
+border: solid 8px black;
+}
+
+#LeftNav h3{
+width: 400px;
+margin-left: auto;
+margin-bottom: 10px;
+border: solid 8px black;
+}
+
+#Content{
+width: 700px;
+margin-left: auto;
+margin-bottom: 10px;
+border: solid 8px black;
+}
+
+#Footer{
+width: 500px;
+margin-left: auto;
+margin-bottom: 10px;
+border: solid 8px black;
+
+}
