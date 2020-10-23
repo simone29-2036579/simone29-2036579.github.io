@@ -2,9 +2,13 @@ body{
 }
 
 p{
+color: white; 
+font-family: Arial;
 }
 
 h3{
+#FFBC00;, font-size: 40px;, font-family: "Passion One"; and margin-bottom: 0px;
+
 }
 
 li{
@@ -19,7 +23,7 @@ text-align:center;
 }
 
 #Header h1{
-
+font-size: 60px; font-family: "Passion One"; color: #FFBC00; font-weight: bold; 
 }
 
 #LeftNav{
