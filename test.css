@@ -1,5 +1,5 @@
 body{
-background-image:url (y-so-serious.png);
+background-image:url ('y-so-serious.png'');
 
 }
 
@@ -36,9 +36,9 @@ margin-bottom: 10px;
 border: solid 8px black;
 float:left;
 text-align:center;
-color:#FFBC00;font-size: 40px;font-family: "Passion One"; and margin-bottom: 0px;
 background-color: #8E41D5;
 padding-bottpm:8px;
+color: white; font-weight: bold; font-size: 24px;
 }
 
 #LeftNav img{
@@ -73,7 +73,6 @@ margin-bottom: 10px;
 border: solid 8px black;
 float:center;
 text-align:center;
-color:#FFBC00;font-size: 40px;font-family: "Passion One"; and margin-bottom: 0px;
 background-color: #8E41D5;
 color: white; font-weight: bold; font-size: 24px;
 }
