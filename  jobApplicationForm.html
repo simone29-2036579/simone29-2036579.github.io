@@ -11,7 +11,7 @@
 <form action="http://gclass.alexburner.com/formtest.php" method="post">
 
 	<fieldset>
-		<legend>Account</legend>
+		<legend>Account Username</legend>
 		<div class="field">
 			<label>Email:</label> 
 			<input type="text" name="email">
@@ -29,7 +29,11 @@
 	<fieldset>
 		<legend>Personal Information</legend>
 		<div class="field">
-			<label>Full Name:</label> 
+			<label>First Name:</label> 
+			<input type="text" name="name">
+		</div>
+		<div class="field">
+			<label>Last Name:</label> 
 			<input type="text" name="name">
 		</div>
 		<div class="field">
@@ -100,6 +104,16 @@
 		<div class="field">
 			<label>ZIP:</label> 
 			<input type="text" name="zip">
+		</div>
+			<div class="field">
+			<label>Phone Number:</label> 
+			<input type="text" name="number">
+		</div>
+			<label>Age</label> 
+			<input type="radio" name="legal" value="16-25">
+			<input type="radio" name="legal" value="26-35">
+			<input type="radio" name="legal" value="36-45">
+			<input type="radio" name="legal" value="Above 45">
 		</div>
 	</fieldset>
 
